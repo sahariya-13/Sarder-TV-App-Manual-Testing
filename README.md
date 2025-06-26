@@ -26,7 +26,6 @@ The goal was to identify real-world bugs, usability issues, and performance bott
 
 - `Observation_Report_SarderTV.pdf` – Full bug report with issue details, steps to reproduce, expected vs actual results, and severity level
 - `README.md` – Summary of the project
-- (Optional) Screenshots folder – if added
 
 👩🏻‍💻 Tested By
 
