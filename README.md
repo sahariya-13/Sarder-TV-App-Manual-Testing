@@ -39,7 +39,8 @@ June 2025
 Feel free to explore the report and suggest improvements.  
 If you’re looking for a passionate and detail-oriented QA tester, I’d love to collaborate!
 
-📧 sahariyanamita143@gmail.com
-🌐 https://linkedin.com/in/namita-sahariya
+E-mail:- sahariyanamita143@gmail.com
+
+linkedin:- https://linkedin.com/in/namita-sahariya
 
 
